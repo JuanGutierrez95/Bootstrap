@@ -1,2 +1,2 @@
 # Bootstrap
-Ejercicio 12 de Bootstrap
+Ejercicio 12 de Bootstrap realizado.
