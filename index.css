@@ -1,0 +1,20 @@
+.row div {
+    margin: 0.15rem;
+}
+
+.col-sm {
+    background-color: red;
+    color: wheat;
+}
+.col-md{
+    background-color: blue;
+    color: yellow;
+}
+.col-lg{
+    background-color: blueviolet;
+    color: aqua;
+}
+.col-xl{
+    background-color: orangered;
+    color: black;
+}
